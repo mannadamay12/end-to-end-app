@@ -7,7 +7,6 @@ A production-ready Next.js template featuring authentication, dark mode support,
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.0-38B2AC)
 
-Full Video Guide: https://www.youtube.com/watch?v=ad1BxZufer8&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=8
 
 ## ✨ Features
 
@@ -237,24 +236,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Supabase team for the backend platform
 - Stripe team for the payment infrastructure
 
-## 📫 Contact
-
-X - [@ShenSeanChen](https://x.com/ShenSeanChen)
-
-YouTube - [@SeanTechStories](https://www.youtube.com/@SeanTechStories)
-
-Discord - [@Sean's Stories](https://discord.gg/TKKPzZheua)
-
-Instagram - [@SeanTechStories](https://www.instagram.com/sean_tech_stories )
-
-Project Link: [https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase](https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase)
-
 ## 🚀 Deploy
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js).
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/your-repo-name)
-
----
-
-Made with 🔥 by [ShenSeanChen](https://github.com/ShenSeanChen)
